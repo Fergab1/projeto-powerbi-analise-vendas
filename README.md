@@ -14,7 +14,7 @@ Ferramentas Utilizadas:
 2. Dashboard de Análise de Vendas
 A imagem abaixo apresenta o resultado final do dashboard.
 
-![dashboard-vendas](dashboard-vendas.png)
+![dashboard-vendas](dashboard.png)
 
 3. Principais Insights Gerados
 Através da análise dos dados, foi possível extrair os seguintes insights:
